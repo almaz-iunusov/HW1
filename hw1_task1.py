@@ -1,0 +1,6 @@
+print("Hello! I am Hi-bot! I love meeting people.")
+first_name = input("Tell me please, what is your name?")
+print("Hello,", first_name, "! Nice to meet you!")
+age = int(input("How old are you? "))
+print("Great! ", age, "-  is good age for learning Python!")
+print("See you later,", first_name, ". Bye-bye!")
