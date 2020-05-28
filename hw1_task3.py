@@ -1,5 +1,0 @@
-n = input("Введите число n=")
-a = int(n)
-b = int(n + n)
-c = int(n + n + n)
-print("Сумма n+nn+nnn равняется=", a + b + c)
